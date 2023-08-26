@@ -1,4 +1,3 @@
-```markdown
 # Flappy Bird Game with libGDX
 
 ## Overview
